@@ -1,0 +1,23 @@
+{
+    "name": "saaiful/db2dropbox",
+    "description": "Database Backup to Dropbox (MySQL)",
+    "license": "MIT",
+    "keywords": ["Database"," Database Backup"," SQL","Dump"," Dropbox"],
+    "authors": [
+        {
+            "name": "Saiful Islam",
+            "email": "saaifulislam@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Saaiful\\Db2dropbox\\": "src/"
+        }
+    }
+}
