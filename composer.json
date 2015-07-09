@@ -9,6 +9,7 @@
             "email": "saaifulislam@gmail.com"
         }
     ],
+    "repositories": [ { "type": "vcs", "url": "https://github.com/fkooman/php-oauth-client.git" } ],
     "require": {
         "fkooman/oauth-client": "dev-master"
         
