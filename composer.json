@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "dropbox/dropbox-sdk": "1.1.*"
+        "fkooman/oauth-client": "dev-master"
         
     },
     "require-dev": {
